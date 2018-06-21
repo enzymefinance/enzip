@@ -18,16 +18,16 @@ Created:
 Reference implementation: 
 ```
 
-## Abstract
+### Abstract
 
 
-## Background
+### Background
 
 
-## Motivation
+### Motivation
 
 
-## Implementation
+### Implementation
 
 
 Once your MIP has been published, do not hesitate to share the link in the ecosystem to kickstart discussions. 
